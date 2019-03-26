@@ -2,7 +2,7 @@
 
 `povjs` extension leveraging `lodash` to support (nested &amp; complex) path.
 
-```
+```javascript
 import { pov } from 'povjs-lodash';
 
 const ipa = {

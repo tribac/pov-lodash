@@ -1,6 +1,6 @@
 {
   "name": "povjs-lodash",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Point-of-view extension leveraging lodash for get/set",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,10 @@
   "author": "Tri-Bac Nguyen <tribac@gmail.com>",
   "homepage": "https://github.com/tribac/pov-lodash",
   "bugs": "https://github.com/tribac/pov-lodash/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tribac/pov-lodash.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "mocha": "^5.2.0"
